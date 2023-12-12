@@ -14,6 +14,7 @@ Thought Behind The KU Website Repo
 - Blood Donation Club contract and guidelines
 - KU Wallpapers
 - KU Tution Media Guideline
+- KU bus info
 - 
 
 
