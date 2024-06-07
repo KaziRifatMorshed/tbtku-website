@@ -16,9 +16,10 @@ Thought Behind The KU Website Repo
 - KU Clubs details and contract
 - Blood Donation Club contract and guidelines
 - KU Wallpapers
-- KU Tution Media Guideline
+- KU Tuition Media Guideline
 - KU bus info and route 
-- 
+- Career section (IELTS, GRE Guideline) (ThanksToAsifKhanPhy23)
+- Each discipline should have a page where some information about the discipline and alumni information, achievements of the discipline (Sport, National/international contest & Olympiad), Hall of fame (ThanksToAsifKhanPhy23)
 
 
 kazi rifat morshed  
