@@ -7,6 +7,9 @@ Thought Behind The KU Website Repo
 - KU Map and Building Map
 - KU Admission Guideline and for those who will come to KU for DU and GST admission
 - KU Campus Guideline for tourists
+- How to reach KU (annotated map, guideline, with transportation cost)
+- Train and Bus Schedule
+- Previous Rag Concert yt playlist
 - Khulna and Neighbouring tourist spot tour guide
 - Website and YT channel links (Including Perv batch Rag concerts)
 - History of KU
@@ -14,7 +17,7 @@ Thought Behind The KU Website Repo
 - Blood Donation Club contract and guidelines
 - KU Wallpapers
 - KU Tution Media Guideline
-- KU bus info
+- KU bus info and route 
 - 
 
 
