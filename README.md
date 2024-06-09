@@ -1,5 +1,6 @@
 # tbtku-website
-Thought Behind The KU Website Repo
+Thought Behind The KU Website Repo  
+Note: Telegram Bot Development:  https://github.com/KaziRifatMorshed/tbtku-telegram-bot 
 
 ## tbtku-website will contain  
 - .csv file for importing emergency contacts easily
@@ -17,7 +18,8 @@ Thought Behind The KU Website Repo
 - Blood Donation Club contract and guidelines
 - KU Wallpapers
 - KU Tuition Media Guideline
-- KU bus info and route 
+- KU bus info and route
+- Roommate Searching Platform 
 - Career section (IELTS, GRE Guideline) (ThanksToAsifKhanPhy23)
 - Each discipline should have a page where some information about the discipline and alumni information, achievements of the discipline (Sport, National/international contest & Olympiad), Hall of fame (ThanksToAsifKhanPhy23)
 
