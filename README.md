@@ -21,10 +21,10 @@ Note: Telegram Bot Development:  https://github.com/KaziRifatMorshed/tbtku-teleg
 - KU bus info and route
 - Roommate Searching Platform 
 - Career section (IELTS, GRE Guideline) (ThanksToAsifKhanPhy23)
-- Each discipline should have a page where some information about the discipline and alumni information, achievements of the discipline (Sport, National/international contest & Olympiad), Hall of fame (ThanksToAsifKhanPhy23)
+- Each discipline should have a page with some information about the discipline and alumni information, achievements of the discipline (Sport, National/international contest & Olympiad), Hall of fame (ThanksToAsifKhanPhy23)
 
 
 kazi rifat morshed  
 CSE23  
 230220  
-11 dec 2023
+11 Dec 2023
