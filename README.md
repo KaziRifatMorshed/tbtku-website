@@ -1,6 +1,6 @@
 # tbtku-website
 Thought Behind The KU Website Repo  
-Note: Telegram Bot Development:  https://github.com/KaziRifatMorshed/tbtku-telegram-bot 
+Note: Telegram Bot Development:  https://github.com/KaziRifatMorshed/tbtku-telegram-bot-public 
 
 ## tbtku-website will contain  
 - .csv file for importing emergency contacts easily
