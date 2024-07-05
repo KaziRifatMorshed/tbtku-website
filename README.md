@@ -17,7 +17,7 @@ Note: Telegram Bot Development:  https://github.com/KaziRifatMorshed/tbtku-teleg
 - How to reach KU (annotated map, guideline, with transportation cost)
 - Train and Bus Schedule
 - Previous Rag Concert yt playlist
-- Khulna and Neighbouring tourist spot tour guide
+- Khulna and Neighboring tourist spot tour guide
 - Website and YT channel links (Including Perv batch Rag concerts)
 - History of KU
 - KU Clubs details and contract
@@ -26,10 +26,13 @@ Note: Telegram Bot Development:  https://github.com/KaziRifatMorshed/tbtku-teleg
 - KU Tuition Media Guideline
 - KU bus info and route
 - Roommate Searching Platform 
-- Admission Section (GST Admission Guideline, Archi Drawing guideline )
+- Admission Section (GST Admission Guideline, Archi, Drawing guideline, Admission day/campus gathering, hotels, prev batch cut mark list)
 - Career section (IELTS, GRE Guideline) (ThanksToAsifKhanPhy23)
 - Each discipline should have a page with some information about the discipline and alumni information, achievements of the discipline (Sport, National/international contest & Olympiad), Hall of fame (ThanksToAsifKhanPhy23)
 
+
+# Notes:
+reminder for save as pdf for offline use
 
 kazi rifat morshed  
 CSE23  
